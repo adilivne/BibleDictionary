@@ -2,10 +2,10 @@
   "name": "vi",
   "version": "1.0.0",
   "description": "",
-  "main": "bibleDictionary2.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bibleDictionary2.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
